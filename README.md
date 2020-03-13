@@ -23,7 +23,6 @@ As this is a matlab function (adding a python version soon), then usage is reall
 	x 		columns of signals (rows are samples and column are the signals).
 	winsize 	window size.
 	wininc		how much to slid the windows by.
-	SF		sampling frequency in Hz.
-
+	
 ## Outputs
 	feat	extracted features from all channels/combinations of channels
