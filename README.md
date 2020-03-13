@@ -1,6 +1,6 @@
 A Framework of Temporal-Spatial Descriptors-Based Feature Extraction for Improved Myoelectric Pattern Recognition
 =================================================================================================================
-getwtfeat is a feature extraction algorithm for ***any kind of signals***, although this was mainly developed for myoelectric, a.k.a, Electromyogram (EMG), signal feature extraction for prostheses control. 
+getTSDfeat is a feature extraction algorithm for ***any kind of signals***, although this was mainly developed for myoelectric, a.k.a, Electromyogram (EMG), signal feature extraction for prostheses control. 
 
 The algorithm extracts 7 features from each channel individually, and from the combination of NCC channels to extract few features including:
 
