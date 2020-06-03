@@ -168,8 +168,3 @@ def KSM1(S):
     Feat   = np.log(np.abs(Feat)).flatten()
     
     return Feat  
-
-import pandas as pd
-df = pd.read_csv('C:/Users/r.khushaba/Desktop/data.csv',header=0)
-
-feat = getTSDfeat(np.array(df),10,10)
